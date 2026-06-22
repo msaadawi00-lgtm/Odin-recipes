@@ -1,0 +1,1 @@
+Creating a mini-project using HTML from The Odin Project courses.
